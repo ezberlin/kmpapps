@@ -51,7 +51,7 @@ kotlin {
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
-            implementation(compose.material)
+            implementation(compose.material3)
             implementation(compose.ui)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
@@ -87,11 +87,11 @@ kotlin {
 }
 
 android {
-    namespace = "com.plcoding.bookpedia"
+    namespace = "io.github.ezberlin.bookpedia"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.plcoding.bookpedia"
+        applicationId = "io.github.ezberlin.bookpedia"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -119,11 +119,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "com.plcoding.bookpedia.MainKt"
+        mainClass = "io.github.ezberlin.bookpedia.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "com.plcoding.bookpedia"
+            packageName = "io.github.ezberlin.bookpedia"
             packageVersion = "1.0.0"
         }
     }
