@@ -1,6 +1,7 @@
-package io.github.ezberlin.vplanx
+package io.github.ezberlin.vplanx.api
 
 import com.fleeksoft.charset.Charsets
+import com.fleeksoft.charset.decodeToString
 import com.fleeksoft.charset.toByteArray
 import com.fleeksoft.ksoup.Ksoup
 import com.fleeksoft.ksoup.nodes.Document
@@ -12,6 +13,7 @@ import io.ktor.client.request.post
 import io.ktor.client.request.setBody
 import io.ktor.client.statement.HttpResponse
 import io.ktor.client.statement.bodyAsText
+import io.ktor.client.statement.readBytes
 import io.ktor.http.ContentType
 import io.ktor.http.contentType
 import io.ktor.http.isSuccess
@@ -26,21 +28,7 @@ import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
-import kotlin.collections.List
-import kotlin.collections.MutableMap
-import kotlin.collections.drop
-import kotlin.collections.first
-import kotlin.collections.firstOrNull
-import kotlin.collections.getOrNull
-import kotlin.collections.indexOfFirst
-import kotlin.collections.indices
-import kotlin.collections.last
-import kotlin.collections.lastOrNull
-import kotlin.collections.listOf
-import kotlin.collections.mutableListOf
-import kotlin.collections.mutableMapOf
 import kotlin.collections.set
-import kotlin.collections.withIndex
 import kotlin.io.encoding.Base64
 import kotlin.io.encoding.ExperimentalEncodingApi
 import kotlin.uuid.ExperimentalUuidApi
@@ -76,12 +64,11 @@ data class RequestWrapper(
     val req: RequestData
 )
 
-// ---------- The APIHandler class ----------
 class ApiHandler(
     username: String,
     password: String,
     private val tablemapper: List<String> =
-        listOf("type", "class", "lesson", "subject", "room", "new_subject", "new_teacher", "teacher")
+        listOf("vtr-nr", "new", "classes", "hours", "subject", "room", "old_subject", "old_room", "text", "type")
 ) {
     // Use kotlinx-datetime instead of java.time
     private val currentTime = Clock.System.now().toLocalDateTime(TimeZone.UTC)
@@ -171,10 +158,11 @@ class ApiHandler(
 
         val compressedDataBytes = Base64.decode(dataCompressedStr.toByteArray(Charsets.UTF8))
         val decompressedDataBytes = gzipDecompress(compressedDataBytes)
-        val decompressedDataStr = decompressedDataBytes
 
-        val dataJson = json.parseToJsonElement(decompressedDataStr)
+        val dataJson = json.parseToJsonElement(decompressedDataBytes)
+        println(dataCompressedStr)
         tableURL = extractUrlFromJson(dataJson)
+        println(tableURL)
     }
 
     /**
@@ -196,8 +184,8 @@ class ApiHandler(
                 throw Exception("Table URL extraction failed")
             }
 
-            // Obtain HTML. Note: ksoup accepts a String source.
-            val htmlResponse: String = client.get(tableURL!!).bodyAsText()
+            val htmlBytes: ByteArray = client.get(tableURL!!).readBytes()
+            val htmlResponse = htmlBytes.decodeToString(Charsets.ISO_8859_1)
             val document: Document = Ksoup.parse(htmlResponse)
 
             // Assuming your table structure is as before:

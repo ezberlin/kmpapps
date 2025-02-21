@@ -1,2 +1,4 @@
-VPlanX/composeApp/src/commonMain/kotlin/io/github/ezberlin/vplanx/Secrets.kt
-
+VPlanX/composeApp/src/commonMain/kotlin/io/github/ezberlin/vplanx/api/Secrets.kt
+**/build/
+**/.gradle/
+**/.kotlin/

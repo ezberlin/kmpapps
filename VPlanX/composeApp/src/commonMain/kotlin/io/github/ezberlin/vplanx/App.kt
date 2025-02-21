@@ -10,6 +10,8 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import io.github.ezberlin.vplanx.api.ApiHandler
+import io.github.ezberlin.vplanx.api.Secrets
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
@@ -20,7 +22,8 @@ import vplanx.composeapp.generated.resources.compose_multiplatform
 @Preview
 fun App() {
     LaunchedEffect(Unit) {
-        val apiHandler = ApiHandler()
+        val apiHandler = ApiHandler(Secrets.USERNAME, Secrets.PASSWORD)
+        println(apiHandler.fetchTimetable())
     }
 
     MaterialTheme {

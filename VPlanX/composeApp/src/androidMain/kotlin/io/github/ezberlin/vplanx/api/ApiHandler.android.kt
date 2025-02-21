@@ -1,4 +1,4 @@
-package io.github.ezberlin.vplanx
+package io.github.ezberlin.vplanx.api
 
 import java.io.ByteArrayInputStream
 import java.io.ByteArrayOutputStream

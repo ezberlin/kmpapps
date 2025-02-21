@@ -1,4 +1,4 @@
-package io.github.ezberlin.vplanx
+package io.github.ezberlin.vplanx.api
 
 import kotlinx.cinterop.ExperimentalForeignApi
 import kotlinx.cinterop.UByteVar
