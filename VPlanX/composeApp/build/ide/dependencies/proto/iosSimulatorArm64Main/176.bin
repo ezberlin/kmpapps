@@ -1,0 +1,23 @@
+¶
+ù
+ö
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathÃ
+…/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-uikitsimarm64/1.7.0/55d680ea323b5f020cf0b21ae1ce2d8c019a3664/material-ripple-uikitsimarm64-1.7.0-sources.jar¿
+org.jetbrains.compose.materialmaterial-ripple-uikitsimarm641.7.0*F
+org.jetbrains.compose.materialmaterial-ripple-uikitsimarm641.7.02Ø
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+9
+"org.jetbrains.kotlin.native.targetios_simulator_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"∞
+≠/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-uikitsimarm64/1.7.0/d5ad415932476890c16fe39e391492a1edf99a9/material-ripple.klib

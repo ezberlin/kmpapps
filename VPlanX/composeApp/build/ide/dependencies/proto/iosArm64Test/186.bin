@@ -1,0 +1,23 @@
+¦
+Ÿ
+œ
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathÎ
+Ë/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-icons-core-uikitarm64/1.7.0/e518df0d8a19c3833f72a24ff667853015e340fd/material-icons-core-uikitarm64-1.7.0-sources.jar¸
+org.jetbrains.compose.materialmaterial-icons-core-uikitarm641.7.0*G
+org.jetbrains.compose.materialmaterial-icons-core-uikitarm641.7.02¥
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+/
+"org.jetbrains.kotlin.native.target	ios_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"¶
+³/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-icons-core-uikitarm64/1.7.0/54879860cc445fb4dc8c6230b468f0364ca39a82/material-icons-core.klib

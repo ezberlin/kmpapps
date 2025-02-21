@@ -1,0 +1,23 @@
+¹
+þ
+û
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath­
+ª/home/easy/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-iosarm64/1.8.0/8f7d0a0ea94eac1d3a340eb0cb69887af6b6f2f0/annotation-iosarm64-1.8.0-sources.jarŒ
+androidx.annotationannotation-iosarm641.8.0*1
+androidx.annotationannotation-iosarm641.8.02¥
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+/
+"org.jetbrains.kotlin.native.target	ios_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"–
+“/home/easy/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-iosarm64/1.8.0/a5a8c3672a380834dafc26e46cacdb7f47a4d6c/annotation.klib

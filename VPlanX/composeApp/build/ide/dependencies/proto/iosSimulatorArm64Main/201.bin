@@ -1,0 +1,23 @@
+ß
+‡
+„
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath¶
+³/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util-uikitsimarm64/1.7.0/3ca137d6483fd792cb7ee8e39114861126491b27/ui-util-uikitsimarm64-1.7.0-sources.jar¤
+org.jetbrains.compose.uiui-util-uikitsimarm641.7.0*8
+org.jetbrains.compose.uiui-util-uikitsimarm641.7.02¯
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+9
+"org.jetbrains.kotlin.native.targetios_simulator_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"›
+˜/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util-uikitsimarm64/1.7.0/2812a25a0fb1052a00f7efb67ff64aec8e44ac63/ui-util.klib

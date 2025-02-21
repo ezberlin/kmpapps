@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.github.ezberlin.bookpedia.composeApp-mergeReleaseResources-57:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/easy/.gradle/caches/8.9/transforms/9407424b5d7bcef0eaed507b717de72b/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

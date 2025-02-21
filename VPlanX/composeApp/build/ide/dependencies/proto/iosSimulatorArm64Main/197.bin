@@ -1,0 +1,23 @@
+Ú
+ê
+ç
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathø
+º/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.23.2/19014537bd0a8e8a262ff7b29602b89bef0a5bcb/atomicfu-iossimulatorarm64-0.23.2-sources.jar™
+org.jetbrains.kotlinxatomicfu-iossimulatorarm640.23.2*;
+org.jetbrains.kotlinxatomicfu-iossimulatorarm640.23.22Ø
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+9
+"org.jetbrains.kotlin.native.targetios_simulator_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"ü
+ú/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.23.2/381aa6605a11173f5e736a20650675b4994c821d/atomicfu.klib

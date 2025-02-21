@@ -1,0 +1,23 @@
+®
+ù
+ö
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathÃ
+…/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-uikitsimarm64/1.7.0/2db055bc54471c10b9696d85a59b517aee3a909/runtime-saveable-uikitsimarm64-1.7.0-sources.jar¿
+org.jetbrains.compose.runtimeruntime-saveable-uikitsimarm641.7.0*F
+org.jetbrains.compose.runtimeruntime-saveable-uikitsimarm641.7.02Ø
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+9
+"org.jetbrains.kotlin.native.targetios_simulator_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"≤
+Ø/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-uikitsimarm64/1.7.0/ba32759b4453285b5c9bd5ce498f0671a9388164/runtime-saveable.klib

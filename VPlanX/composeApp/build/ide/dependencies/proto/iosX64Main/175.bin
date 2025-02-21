@@ -1,0 +1,23 @@
+„
+Ž
+‹
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath½
+º/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosX64/1.7.0/2502fd99c7871994ecc9668ad95672b4454739c4/library-iosx64-1.7.0-sources.jar´
+ org.jetbrains.compose.componentscomponents-resources-iosX641.7.0*F
+ org.jetbrains.compose.componentscomponents-resources-iosX641.7.02£
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+-
+"org.jetbrains.kotlin.native.targetios_x64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"©
+¦/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosX64/1.7.0/8ca179a44ccf7a7120a660abfbaf717921b2e5be/library.klib

@@ -1,0 +1,340 @@
+[
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-stdlib-2.1.10-commonMain-ITmP6A.klib"
+    ],
+    "coordinates": "org.jetbrains.kotlin:kotlin-stdlib:commonMain:2.1.10",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.1.10/7175b5de8ceb04e496bdc45c6fd9e33631737e34/kotlin-stdlib-2.1.10-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.runtime-runtime-1.7.0-commonMain-9pDeVQ.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.runtime:runtime:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime/1.7.0/599380103eb4a1cfceafa1d1d1af3fa730e21623/runtime-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.7.0-commonMain-Z4pWpg.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.foundation:foundation:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation/1.7.0/48fb4d6f354f1fc7c9c362435597f7cdf17f826d/foundation-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material-material-1.7.0-commonMain-G6kTFA.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.material:material:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material/1.7.0/87b2e4f7ece6e53343ff6de9d8ded7518ab22654/material-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.7.0-commonMain-byxhLA.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui/1.7.0/64d567815fed905a57946c2d530e3c412734b9de/ui-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.7.0-blockingMain-Tn2Qyw.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.components:components-resources:blockingMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources/1.7.0/5709a3441c635f6c50229d36f6a1c16e487dd600/components-resources-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.7.0-commonMain-Tn2Qyw.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.components:components-resources:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources/1.7.0/5709a3441c635f6c50229d36f6a1c16e487dd600/components-resources-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-ui-tooling-preview-1.7.0-commonMain--i3iSw.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.components:components-ui-tooling-preview:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-ui-tooling-preview/1.7.0/5dc49d20e2c19a9b02c4e528ba877067e6f443f9/components-ui-tooling-preview-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.8.4-commonMain-I44vqw.klib"
+    ],
+    "coordinates": "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:commonMain:2.8.4",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel/2.8.4/c57a70f6ce5db94cac5a1d25cf37c9d64e689b11/lifecycle-viewmodel-2.8.4-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-runtime-compose-2.8.4-commonMain-eB6IaQ.klib"
+    ],
+    "coordinates": "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:commonMain:2.8.4",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose/2.8.4/4c787c325568658022d901efb8a435325e484dbf/lifecycle-runtime-compose-2.8.4-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-1.7.0-commonMain-TojQLQ.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.animation:animation:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation/1.7.0/7f5f7b362895a48508a20dfc49e5286451370b13/animation-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-core-1.7.0-commonMain-KAIxIA.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.animation:animation-core:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core/1.7.0/b7520ea2b638146a943b05781f53691e895d1ea0/animation-core-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material-material-icons-core-1.7.0-commonMain-OY6u5w.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.material:material-icons-core:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-icons-core/1.7.0/e518df0d8a19c3833f72a24ff667853015e340fd/material-icons-core-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material-material-ripple-1.7.0-commonMain-hYj_-Q.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.material:material-ripple:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple/1.7.0/55d680ea323b5f020cf0b21ae1ce2d8c019a3664/material-ripple-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.7.0-commonMain-22Ga_g.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui-text:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text/1.7.0/11e8f401092bb8b781313af765b8f2ef5bd81ee0/ui-text-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.runtime-runtime-saveable-1.7.0-commonMain-dToAUQ.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable/1.7.0/2db055bc54471c10b9696d85a59b517aee3a909/runtime-saveable-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-geometry-1.7.0-commonMain-CwQ9Eg.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui-geometry:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry/1.7.0/1dd31c0c8b7e1d3d94f2d3811e82ac96feca355/ui-geometry-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.7.0-commonMain-nWZcXg.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui-graphics:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics/1.7.0/bda75d04ae2ef6936546dd964793f3a120782761/ui-graphics-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-unit-1.7.0-commonMain-pR3KgA.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui-unit:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-unit/1.7.0/b15c68469e3ca576fae556f3b93f5faca66fc60f/ui-unit-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.7.0-commonMain-3-t5Ow.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.ui:ui-util:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util/1.7.0/e2deee8cbf51bfbefeada7ce09b6574312838220/ui-util-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.annotation-internal-annotation-1.7.0-commonMain-BD0V2w.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.annotation-internal:annotation:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.annotation-internal/annotation/1.7.0/6e41c5bab9458ad24f11b7b58c54fbe17d9fc1b2/annotation-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-concurrentMain-UxhG-g.klib"
+    ],
+    "coordinates": "org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.8.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.8.0/a8816763d0c241af8d6651a9423da479a7f350a1/kotlinx-coroutines-core-1.8.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-commonMain-UxhG-g.klib"
+    ],
+    "coordinates": "org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.8.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.8.0/a8816763d0c241af8d6651a9423da479a7f350a1/kotlinx-coroutines-core-1.8.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.8.4-commonMain-P_jWsA.klib"
+    ],
+    "coordinates": "org.jetbrains.androidx.lifecycle:lifecycle-runtime:commonMain:2.8.4",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime/2.8.4/6dc28ff7a9255a6b3f680ee07f956acbddd32c5d/lifecycle-runtime-2.8.4-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-layout-1.7.0-commonMain-Nkt8ew.klib"
+    ],
+    "coordinates": "org.jetbrains.compose.foundation:foundation-layout:commonMain:1.7.0",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout/1.7.0/f5ed66a598198ba774329f8d2fd53cc20505e313/foundation-layout-1.7.0-sources.jar"
+      ]
+    }
+  },
+  {
+    "binaryType": "KOTLIN_COMPILE",
+    "classpath": [
+      ".kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-common-2.8.4-commonMain-FPlmfg.klib"
+    ],
+    "coordinates": "org.jetbrains.androidx.lifecycle:lifecycle-common:commonMain:2.8.4",
+    "extras": {
+      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver",
+      "org.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath": [
+        "/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-common/2.8.4/c8e416d29fc5360723ec88a08023524d89c89feb/lifecycle-common-2.8.4-sources.jar"
+      ]
+    }
+  }
+]

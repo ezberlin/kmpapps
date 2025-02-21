@@ -1,0 +1,23 @@
+Ì
+þ
+û
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath­
+ª/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.23.2/19014537bd0a8e8a262ff7b29602b89bef0a5bcb/atomicfu-iosarm64-0.23.2-sources.jarŽ
+org.jetbrains.kotlinxatomicfu-iosarm640.23.2*2
+org.jetbrains.kotlinxatomicfu-iosarm640.23.22¥
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+/
+"org.jetbrains.kotlin.native.target	ios_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"§
+¤/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.23.2/104fe98ce5d1bff312df52e3a458b9b7115e1622/atomicfu-cinterop-interop.klib

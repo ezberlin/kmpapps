@@ -19,6 +19,10 @@ import vplanx.composeapp.generated.resources.compose_multiplatform
 @Composable
 @Preview
 fun App() {
+    LaunchedEffect(Unit) {
+        val apiHandler = ApiHandler()
+    }
+
     MaterialTheme {
         var showContent by remember { mutableStateOf(false) }
         Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {

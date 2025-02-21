@@ -1,0 +1,23 @@
+¨
+÷
+ô
+Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath¦
+£/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-uikitarm64/1.7.0/9dc6832bf1fd1ba07d995c0fa7ee807beb1ba23c/ui-uikitarm64-1.7.0-sources.jarŠ
+org.jetbrains.compose.uiui-uikitarm641.7.0*0
+org.jetbrains.compose.uiui-uikitarm641.7.02¥
+)
+artifactTypeorg.jetbrains.kotlin.klib
+
+org.gradle.categorylibrary
+
+org.gradle.usage
+kotlin-api
+/
+"org.jetbrains.kotlin.native.target	ios_arm64
+,
+"org.jetbrains.kotlin.platform.typenative
+
+org.gradle.statusrelease
+;
+3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"Ž
+‹/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-uikitarm64/1.7.0/e71bc212d1a318c7a1952a5cc1293747e85ed9fc/ui.klib

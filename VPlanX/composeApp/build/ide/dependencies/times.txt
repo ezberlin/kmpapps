@@ -1,0 +1,17 @@
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeDependsOnDependencyResolver 1.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeFriendSourceDependencyResolver 2.ms
+org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver$Companion$empty$1 0.ms
+org.jetbrains.kotlin.gradle.plugin.ide.IdeAdditionalArtifactResolver$Companion$empty$1 0.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeVisibleMultiplatformSourceDependencyResolver 507.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeNativeStdlibDependencyResolver 8.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeNativePlatformDependencyResolver 329.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeCommonizedNativePlatformDependencyResolver 185.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeTransformedMetadataDependencyResolver 35.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeOriginalMetadataDependencyResolver 3.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeBinaryDependencyResolver 51.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeCommonizedCinteropDependencyResolver 0.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeCInteropMetadataDependencyClasspathResolver 0.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeSourcesVariantsResolver 53.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeArtifactResolutionQuerySourcesResolver 44.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdePlatformCinteropDependencyResolver 0.ms
+org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeProjectToProjectCInteropDependencyResolver 0.ms
