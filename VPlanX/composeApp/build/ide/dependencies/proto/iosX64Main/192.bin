@@ -1,23 +1,0 @@
-Œ
-Ö
-Ç
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath¥
-±/home/easy/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-iosx64/2.8.5/c64b3ac8adb5ca3922d798025810459e486d20bf/lifecycle-common-iosx64-2.8.5-sources.jarê
-androidx.lifecyclelifecycle-common-iosx642.8.5*4
-androidx.lifecyclelifecycle-common-iosx642.8.52£
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
--
-"org.jetbrains.kotlin.native.targetios_x64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"†
-ù/home/easy/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-iosx64/2.8.5/1b7678dcfbfb43cbab631947be016fafbe9bf7af/lifecycle-common.klib

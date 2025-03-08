@@ -1,23 +1,0 @@
-Ç
-¤
-¡
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathÓ
-Ð/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosSimulatorArm64/1.7.0/2502fd99c7871994ecc9668ad95672b4454739c4/library-iossimulatorarm64-1.7.0-sources.jarÖ
- org.jetbrains.compose.components&components-resources-iosSimulatorArm641.7.0*Q
- org.jetbrains.compose.components&components-resources-iosSimulatorArm641.7.02¯
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
-9
-"org.jetbrains.kotlin.native.targetios_simulator_arm64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"´
-±/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosSimulatorArm64/1.7.0/c86cf21d6579f872fba89c737acaa7c4f83eefdd/library.klib

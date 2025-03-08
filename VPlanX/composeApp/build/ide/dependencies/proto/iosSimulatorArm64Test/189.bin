@@ -1,23 +1,0 @@
-ë
-³
-°
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathâ
-ß/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-uikitsimarm64/2.8.4/4c787c325568658022d901efb8a435325e484dbf/lifecycle-runtime-compose-uikitsimarm64-2.8.4-sources.jarØ
- org.jetbrains.androidx.lifecycle'lifecycle-runtime-compose-uikitsimarm642.8.4*R
- org.jetbrains.androidx.lifecycle'lifecycle-runtime-compose-uikitsimarm642.8.42¯
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
-9
-"org.jetbrains.kotlin.native.targetios_simulator_arm64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"Ç
-Ä/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-uikitsimarm64/2.8.4/c06a8a6597a568d10326c43306504b121b09b99f/lifecycle-runtime-compose.klib

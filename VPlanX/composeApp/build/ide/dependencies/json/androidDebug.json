@@ -1,9 +1,0 @@
-[
-  {
-    "type": "DependsOn",
-    "coordinates": ":composeApp::composeApp/commonMain",
-    "extras": {
-      "org.jetbrains.kotlin.gradle.plugin.ide.IdeDependencyResolver;resolvedBy": "org.jetbrains.kotlin.gradle.plugin.ide.dependencyResolvers.IdeDependsOnDependencyResolver"
-    }
-  }
-]

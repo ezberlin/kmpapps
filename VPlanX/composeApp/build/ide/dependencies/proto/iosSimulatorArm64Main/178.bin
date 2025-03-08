@@ -1,23 +1,0 @@
-á
-í
-è
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath¡
-æ/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-uikitsimarm64/1.7.0/3fe7f8b205ce52e0783e565ba7177f8ea6671bf6/animation-uikitsimarm64-1.7.0-sources.jar∂
-org.jetbrains.compose.animationanimation-uikitsimarm641.7.0*A
-org.jetbrains.compose.animationanimation-uikitsimarm641.7.02Ø
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
-9
-"org.jetbrains.kotlin.native.targetios_simulator_arm64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"¶
-£/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-uikitsimarm64/1.7.0/648f53d986f68fc0e51ea9472c2ff6fecd0205e3/animation.klib

@@ -1,23 +1,0 @@
-»
-£
- 
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathÒ
-Ï/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout-uikitsimarm64/1.7.0/891494cbe2e73db20b98f69788293949eaaecdfa/foundation-layout-uikitsimarm64-1.7.0-sources.jarÈ
- org.jetbrains.compose.foundationfoundation-layout-uikitsimarm641.7.0*J
- org.jetbrains.compose.foundationfoundation-layout-uikitsimarm641.7.02¯
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
-9
-"org.jetbrains.kotlin.native.targetios_simulator_arm64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"·
-´/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout-uikitsimarm64/1.7.0/5e6693d8aef9918d1ab6500157b382fd52256e47/foundation-layout.klib

@@ -51,6 +51,8 @@ kotlin {
             implementation(libs.kotlinx.serialization.json)
             implementation(libs.kotlinx.datetime)
             implementation(libs.ksoup)
+            implementation(libs.androidx.navigation.compose)
+            implementation(libs.androidx.navigation.runtime.ktx)
         }
     }
 }

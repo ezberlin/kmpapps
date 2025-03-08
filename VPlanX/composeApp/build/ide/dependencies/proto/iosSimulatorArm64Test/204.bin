@@ -1,23 +1,0 @@
-Ò
-ê
-ç
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspathø
-º/home/easy/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-iossimulatorarm64/1.4.0/302d6bdc80fe280f69b5b53e9316603d1876b475/collection-iossimulatorarm64-1.4.0-sources.jar®
-androidx.collectioncollection-iossimulatorarm641.4.0*:
-androidx.collectioncollection-iossimulatorarm641.4.02Ø
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
-9
-"org.jetbrains.kotlin.native.targetios_simulator_arm64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"†
-ù/home/easy/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-iossimulatorarm64/1.4.0/ec0997fbabdbb870bf523dea180ccda2285ba0ad/collection.klib

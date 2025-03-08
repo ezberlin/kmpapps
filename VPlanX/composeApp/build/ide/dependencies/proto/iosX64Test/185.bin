@@ -1,23 +1,0 @@
-Ä
-í
-è
-Iorg.jetbrains.kotlin.gradle.idea.tcs.IdeaKotlinClasspath;sourcesClasspath¡
-æ/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core-uikitx64/1.7.0/7cc565a3737d4b232ae36282f93e1949457376fa/animation-core-uikitx64-1.7.0-sources.jar™
-org.jetbrains.compose.animationanimation-core-uikitx641.7.0*A
-org.jetbrains.compose.animationanimation-core-uikitx641.7.02£
-)
-artifactTypeorg.jetbrains.kotlin.klib
-
-org.gradle.categorylibrary
-
-org.gradle.usage
-kotlin-api
--
-"org.jetbrains.kotlin.native.targetios_x64
-,
-"org.jetbrains.kotlin.platform.typenative
-
-org.gradle.statusrelease
-;
-3org.jetbrains.kotlin.cinteropCommonizerArtifactTypeklibKOTLIN_COMPILE"´
-®/home/easy/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core-uikitx64/1.7.0/d690576b5a80915df77e780b359a8f09cc53c461/animation-core.klib
